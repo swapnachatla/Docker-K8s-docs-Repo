@@ -1,0 +1,12 @@
+https://chat.openai.com/?model=text-davinci-002-render-sha
+https://github.com/swapnachatla/nodedocker_app
+https://github.com/search?q=cicd%20GitHubActions&type=repositories
+https://github.com/Lock128/cicdonaws-example-projects/blob/main/.github/workflows/build.yml
+https://github.com/swapnachatla/DockerActions/blob/main/package.json
+https://hub.docker.com/repository/docker/swapna77/docker/tags?page=1&ordering=last_updated
+https://earthly.dev/blog/cicd-build-github-action-dockerhub/
+http://localhost:63468/?code=64ed572ff87c2eee1385&state=6461926a9d2645bdbbc9161939db9990
+https://github.blog/changelog/2022-09-22-github-actions-all-actions-will-begin-running-on-node16-instead-of-node12/
+https://www.google.com/search?q=github+actions&oq=github+&aqs=chrome.0.69i59j69i57j69i60l6.3855j0j7&sourceid=chrome&ie=UTF-8
+https://www.youtube.com/watch?v=NppkHKvnrqc&t=39s
+https://github.com/marketplace/actions/docker-build-push-action
